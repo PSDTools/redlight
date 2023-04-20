@@ -1,3 +1,4 @@
 # Redlight
-Red light that flashes (user specified) minutes before the bell.
-For the PLTW Engineering(and other) classrooms.
+
+Flash a red light user specified minutes before the bell;
+for the PLTW Engineering classroom (and others, should they wish).
